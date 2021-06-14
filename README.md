@@ -57,11 +57,13 @@ new一个GridImageAdapter来存放选择的文件，然后判断利用库中集�
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210614170136744.png)![在这里插入图片描述](https://img-blog.csdnimg.cn/20210614170139745.png)![在这里插入图片描述](https://img-blog.csdnimg.cn/20210614170149392.png)
 左边是我的应用的界面，右边是模拟器中自带的图库的界面，可以看到该应用找到了该模拟器中包括图片的所有文件夹，也获取到了手机本地保存的所有图片和视频。
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210614170201572.png)![在这里插入图片描述](https://img-blog.csdnimg.cn/20210614170205729.png)![在这里插入图片描述](https://img-blog.csdnimg.cn/2021061417020910.png)
 
 
 
 可以点击图片进行预览，也可以左右滑动选择不同的相册。
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210614170215310.png)![在这里插入图片描述](https://img-blog.csdnimg.cn/20210614170219150.png)![在这里插入图片描述](https://img-blog.csdnimg.cn/20210614170223137.png)
 
 
@@ -70,15 +72,22 @@ new一个GridImageAdapter来存放选择的文件，然后判断利用库中集�
 
 
 
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210614170229731.png)![在这里插入图片描述](https://img-blog.csdnimg.cn/20210614170233304.png)![在这里插入图片描述](https://img-blog.csdnimg.cn/2021061417023767.png)
 
 
+
 当选择音频时，显示本地的所有音频，并在点击后能进行播放
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2021061417025487.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1ODA4NzAw,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20210614170301169.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1ODA4NzAw,size_16,color_FFFFFF,t_70)
 
 
 在选择视频后也能进行播放和选择到首页
+
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210614170309269.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1ODA4NzAw,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20210614170313465.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1ODA4NzAw,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/2021061417031876.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1ODA4NzAw,size_16,color_FFFFFF,t_70)
+
+
 还能够进行录视频，拍照，录音。
 
 # 6、总结
